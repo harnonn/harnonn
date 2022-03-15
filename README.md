@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harnonn
 - 👀 I’m interested in Java EE Web and Backend development
-- 🌱 I’m currently learning JPA/Hibernate, Docker, Spring framework
+- 🌱 I’m currently learning, Docker, Spring framework and other Java technologies
 - 📫 How to reach me: harnonn@gmail.com
 
 <!---
